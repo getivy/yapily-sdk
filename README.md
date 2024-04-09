@@ -1,4 +1,4 @@
-# Swan SDK
+# Yapily SDK
 
 This is a project to host [Yapily](https://www.yapily.com) SDK.
 
