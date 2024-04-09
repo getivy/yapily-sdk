@@ -1,0 +1,23 @@
+{
+  "name": "yapily-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getivy/yapily-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getivy/yapily-sdk/issues"
+  },
+  "homepage": "https://github.com/getivy/yapily-sdk#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
